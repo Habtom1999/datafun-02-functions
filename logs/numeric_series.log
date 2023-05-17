@@ -1,0 +1,33 @@
+2023-05-21 12:53:51,925 =============================================================
+2023-05-21 12:53:51,925 =============================================================
+2023-05-21 12:53:51,925 Today is 2023-05-21 at 12:53 PM
+2023-05-21 12:53:51,946 This file is running on: nt Windows 10
+2023-05-21 12:53:51,947 The Python version is: 3.11.3
+2023-05-21 12:53:51,947 The active conda environment is:  None
+2023-05-21 12:53:51,947 The active pip environment is:    None
+2023-05-21 12:53:51,947 The active environment path is:   C:\Users\habto\AppData\Local\Programs\Python\Python311
+2023-05-21 12:53:51,947 The current working directory is: C:\Users\habto\Desktop\NWMS classes\Data Fundamentals\Module=2\datafun-02-functions
+2023-05-21 12:53:51,947 This source file is in:           c:\Users\habto\Desktop\NWMS classes\Data Fundamentals\Module=2\datafun-02-functions
+2023-05-21 12:53:51,947 =============================================================
+2023-05-21 12:53:51,947 =============================================================
+2023-05-21 12:53:51,947 Created: NumericSeries with name=Quiz Scores Module 1, units=pts, and 6 data points: [9, 9, 10, 9, 7, 10]
+2023-05-21 12:53:51,947 Created: NumericSeries with name=Quiz Scores Module 2, units=pts, and 8 data points: [8, 10, 8, 10, 8, 10, 10, 10]
+2023-05-21 12:53:51,947 Created: NumericSeries with name=Quiz Scores Module 3, units=pts, and 4 data points: [7, 8, 9, 10]
+2023-05-21 12:53:51,947 NumericSeries with name=Quiz Scores Module 1, units=pts, and 6 data points: [9, 9, 10, 9, 7, 10]
+2023-05-21 12:53:51,947 Count: 6
+2023-05-21 12:53:51,947 Sum: 54
+2023-05-21 12:53:51,947 Mean: 9.0
+2023-05-21 12:53:51,947 Median: 9.0
+2023-05-21 12:53:51,947 ------------------
+2023-05-21 12:53:51,947 NumericSeries with name=Quiz Scores Module 2, units=pts, and 8 data points: [8, 10, 8, 10, 8, 10, 10, 10]
+2023-05-21 12:53:51,947 Count: 8
+2023-05-21 12:53:51,947 Sum: 74
+2023-05-21 12:53:51,947 Mean: 9.25
+2023-05-21 12:53:51,947 Median: 10.0
+2023-05-21 12:53:51,947 ------------------
+2023-05-21 12:53:51,947 NumericSeries with name=Quiz Scores Module 3, units=pts, and 4 data points: [7, 8, 9, 10]
+2023-05-21 12:53:51,947 Count: 4
+2023-05-21 12:53:51,947 Sum: 34
+2023-05-21 12:53:51,947 Mean: 8.5
+2023-05-21 12:53:51,947 Median: 8.5
+2023-05-21 12:53:51,947 ------------------

@@ -1,0 +1,33 @@
+2023-05-21 12:57:29,112 =============================================================
+2023-05-21 12:57:29,113 =============================================================
+2023-05-21 12:57:29,113 Today is 2023-05-21 at 12:57 PM
+2023-05-21 12:57:29,132 This file is running on: nt Windows 10
+2023-05-21 12:57:29,132 The Python version is: 3.11.3
+2023-05-21 12:57:29,134 The active conda environment is:  None
+2023-05-21 12:57:29,134 The active pip environment is:    None
+2023-05-21 12:57:29,134 The active environment path is:   C:\Users\habto\AppData\Local\Programs\Python\Python311
+2023-05-21 12:57:29,135 The current working directory is: C:\Users\habto\Desktop\NWMS classes\Data Fundamentals\Module=2\datafun-02-functions
+2023-05-21 12:57:29,135 This source file is in:           c:\Users\habto\Desktop\NWMS classes\Data Fundamentals\Module=2\datafun-02-functions
+2023-05-21 12:57:29,135 =============================================================
+2023-05-21 12:57:29,135 =============================================================
+2023-05-21 12:57:29,135 Created: NumericWeatherSeries with name=Monday Temperatures, units=F, location=Maryville MO, and 5 data points: [55.8, 63.4, 72.4, 78, 76.3]
+2023-05-21 12:57:29,135 Created: NumericWeatherSeries with name=Tuesday Temperatures, units=F, location=Maryville MO, and 7 data points: [66.2, 67.2, 55.8, 63.4, 72.4, 73.1, 76.3]
+2023-05-21 12:57:29,135 Created: NumericWeatherSeries with name=Wednesday Temperatures, units=F, location=Maryville MO, and 13 data points: [66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78]
+2023-05-21 12:57:29,135 NumericWeatherSeries with name=Monday Temperatures, units=F, location=Maryville MO, and 5 data points: [55.8, 63.4, 72.4, 78, 76.3]
+2023-05-21 12:57:29,135 Count: 5
+2023-05-21 12:57:29,135 Sum: 345.90000000000003
+2023-05-21 12:57:29,135 Mean: 69.18
+2023-05-21 12:57:29,136 Median: 72.4
+2023-05-21 12:57:29,136 ------------------
+2023-05-21 12:57:29,136 NumericWeatherSeries with name=Tuesday Temperatures, units=F, location=Maryville MO, and 7 data points: [66.2, 67.2, 55.8, 63.4, 72.4, 73.1, 76.3]
+2023-05-21 12:57:29,136 Count: 7
+2023-05-21 12:57:29,136 Sum: 474.40000000000003
+2023-05-21 12:57:29,136 Mean: 67.77142857142857
+2023-05-21 12:57:29,136 Median: 67.2
+2023-05-21 12:57:29,136 ------------------
+2023-05-21 12:57:29,136 NumericWeatherSeries with name=Wednesday Temperatures, units=F, location=Maryville MO, and 13 data points: [66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78]
+2023-05-21 12:57:29,136 Count: 13
+2023-05-21 12:57:29,136 Sum: 936
+2023-05-21 12:57:29,136 Mean: 72.0
+2023-05-21 12:57:29,136 Median: 72
+2023-05-21 12:57:29,136 ------------------

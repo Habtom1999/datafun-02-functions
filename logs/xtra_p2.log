@@ -1,0 +1,29 @@
+2023-05-16 22:21:08,173 =============================================================
+2023-05-16 22:21:08,173 =============================================================
+2023-05-16 22:21:08,173 Today is 2023-05-16 at 10:21 PM
+2023-05-16 22:21:08,193 This file is running on: nt Windows 10
+2023-05-16 22:21:08,193 The Python version is: 3.11.3
+2023-05-16 22:21:08,193 The active conda environment is:  None
+2023-05-16 22:21:08,193 The active pip environment is:    None
+2023-05-16 22:21:08,193 The active environment path is:   C:\Users\habto\AppData\Local\Programs\Python\Python311
+2023-05-16 22:21:08,193 The current working directory is: C:\Users\habto\Desktop\NWMS classes\Data Fundamentals\Module=2\datafun-02-functions
+2023-05-16 22:21:08,193 This source file is in:           c:\Users\habto\Desktop\NWMS classes\Data Fundamentals\Module=2\datafun-02-functions
+2023-05-16 22:21:08,193 =============================================================
+2023-05-16 22:21:08,193 =============================================================
+2023-05-16 22:21:08,193 CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=False)
+2023-05-16 22:21:08,193 RETURNING bearcat
+2023-05-16 22:21:08,193 CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=True)
+2023-05-16 22:21:08,193 RETURNING bearcat
+2023-05-16 22:21:08,193 CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
+2023-05-16 22:21:08,193 RETURNING hello
+2023-05-16 22:21:08,193 ===========================================================
+2023-05-16 22:21:08,193 Running doctest.testmod() function to unit test our code
+2023-05-16 22:21:08,193 ===========================================================
+2023-05-16 22:21:08,200 CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=False)
+2023-05-16 22:21:08,200 RETURNING bearcat
+2023-05-16 22:21:08,201 CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=True)
+2023-05-16 22:21:08,201 RETURNING bearcat
+2023-05-16 22:21:08,203 CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
+2023-05-16 22:21:08,203 RETURNING hello
+2023-05-16 22:21:08,206 8 tests failed!
+2023-05-16 22:21:08,206 Script complete. More info in the log file.

@@ -1,0 +1,33 @@
+2023-05-21 12:00:24,053 =============================================================
+2023-05-21 12:00:24,053 =============================================================
+2023-05-21 12:00:24,053 Today is 2023-05-21 at 12:00 PM
+2023-05-21 12:00:24,073 This file is running on: nt Windows 10
+2023-05-21 12:00:24,073 The Python version is: 3.11.3
+2023-05-21 12:00:24,073 The active conda environment is:  None
+2023-05-21 12:00:24,073 The active pip environment is:    None
+2023-05-21 12:00:24,073 The active environment path is:   C:\Users\habto\AppData\Local\Programs\Python\Python311
+2023-05-21 12:00:24,073 The current working directory is: C:\Users\habto\Desktop\NWMS classes\Data Fundamentals\Module=2\datafun-02-functions
+2023-05-21 12:00:24,073 This source file is in:           c:\Users\habto\Desktop\NWMS classes\Data Fundamentals\Module=2\datafun-02-functions
+2023-05-21 12:00:24,073 =============================================================
+2023-05-21 12:00:24,073 =============================================================
+2023-05-21 12:00:24,073 Explore some functions in the math module
+2023-05-21 12:00:24,073 math.comb(5,1) = 5
+2023-05-21 12:00:24,073 math.perm(5,1) = 5
+2023-05-21 12:00:24,073 math.comb(5,3) = 10
+2023-05-21 12:00:24,073 math.perm(5,3) = 60
+2023-05-21 12:00:24,073 math.pi = 3.141592653589793
+2023-05-21 12:00:24,073 math.degrees(2 * math.pi) = 360.0
+2023-05-21 12:00:24,073 math.radians(180)         = 3.141592653589793
+2023-05-21 12:00:24,073 
+2023-05-21 12:00:24,073 TRY:get_area_of_rectangle(height_list, width_list)() function with a different values.
+2023-05-21 12:00:24,073 get_area_of_rectangle([5, 3, 4], [2, 3, 6])
+2023-05-21 12:00:24,073 get_rectangle_area_given_(5,2)
+2023-05-21 12:00:24,073 The rectangle area is 10
+2023-05-21 12:00:24,073 r = (5, 2), area=10
+2023-05-21 12:00:24,074 get_rectangle_area_given_(3,3)
+2023-05-21 12:00:24,074 The rectangle area is 9
+2023-05-21 12:00:24,074 r = (3, 3), area=9
+2023-05-21 12:00:24,074 get_rectangle_area_given_(4,6)
+2023-05-21 12:00:24,074 The rectangle area is 24
+2023-05-21 12:00:24,074 r = (4, 6), area=24
+2023-05-21 12:00:24,074 get_area_of_rectangle(-16, 4)
