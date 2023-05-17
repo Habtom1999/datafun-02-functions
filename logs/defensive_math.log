@@ -1,0 +1,66 @@
+2023-05-16 22:16:16,910 =============================================================
+2023-05-16 22:16:16,910 =============================================================
+2023-05-16 22:16:16,911 Today is 2023-05-16 at 10:16 PM
+2023-05-16 22:16:16,932 This file is running on: nt Windows 10
+2023-05-16 22:16:16,932 The Python version is: 3.11.3
+2023-05-16 22:16:16,932 The active conda environment is:  None
+2023-05-16 22:16:16,932 The active pip environment is:    None
+2023-05-16 22:16:16,932 The active environment path is:   C:\Users\habto\AppData\Local\Programs\Python\Python311
+2023-05-16 22:16:16,932 The current working directory is: C:\Users\habto\Desktop\NWMS classes\Data Fundamentals\Module=2\datafun-02-functions
+2023-05-16 22:16:16,932 This source file is in:           c:\Users\habto\Desktop\NWMS classes\Data Fundamentals\Module=2\datafun-02-functions
+2023-05-16 22:16:16,932 =============================================================
+2023-05-16 22:16:16,932 =============================================================
+2023-05-16 22:16:16,932 Explore some functions in the math module
+2023-05-16 22:16:16,932 math.comb(5,1) = 5
+2023-05-16 22:16:16,932 math.perm(5,1) = 5
+2023-05-16 22:16:16,932 math.comb(5,3) = 10
+2023-05-16 22:16:16,932 math.perm(5,3) = 60
+2023-05-16 22:16:16,932 math.pi = 3.141592653589793
+2023-05-16 22:16:16,932 math.degrees(2 * math.pi) = 360.0
+2023-05-16 22:16:16,932 math.radians(180)         = 3.141592653589793
+2023-05-16 22:16:16,932 
+2023-05-16 22:16:16,932 TRY: Call get_circle_area_given_radius() function with a different values.
+2023-05-16 22:16:16,932 CALLING get_circle_area(5)
+2023-05-16 22:16:16,932 The circle area is 31.41592653589793
+2023-05-16 22:16:16,932 CALLING get_circle_area(-16)
+2023-05-16 22:16:16,932 The circle area is -100.53096491487338
+2023-05-16 22:16:16,932 CALLING get_circle_area(inf)
+2023-05-16 22:16:16,932 The circle area is inf
+2023-05-16 22:16:16,932 CALLING get_circle_area(five)
+2023-05-16 22:16:16,932 Error: can't multiply sequence by non-int of type 'float'
+2023-05-16 22:16:16,932 
+2023-05-16 22:16:16,932 TRY: Call get_circle_areas_given_list() function with a list of GOOD values
+2023-05-16 22:16:16,932 CALLING get_circle_area([5, 10, 25, 30, 45, 50])
+2023-05-16 22:16:16,932 CALLING get_circle_area(5)
+2023-05-16 22:16:16,932 The circle area is 31.41592653589793
+2023-05-16 22:16:16,932 r = 5, area=31.41592653589793
+2023-05-16 22:16:16,932 CALLING get_circle_area(10)
+2023-05-16 22:16:16,932 The circle area is 62.83185307179586
+2023-05-16 22:16:16,932 r = 10, area=62.83185307179586
+2023-05-16 22:16:16,932 CALLING get_circle_area(25)
+2023-05-16 22:16:16,932 The circle area is 157.07963267948966
+2023-05-16 22:16:16,932 r = 25, area=157.07963267948966
+2023-05-16 22:16:16,932 CALLING get_circle_area(30)
+2023-05-16 22:16:16,932 The circle area is 188.49555921538757
+2023-05-16 22:16:16,932 r = 30, area=188.49555921538757
+2023-05-16 22:16:16,932 CALLING get_circle_area(45)
+2023-05-16 22:16:16,932 The circle area is 282.7433388230814
+2023-05-16 22:16:16,932 r = 45, area=282.7433388230814
+2023-05-16 22:16:16,932 CALLING get_circle_area(50)
+2023-05-16 22:16:16,932 The circle area is 314.1592653589793
+2023-05-16 22:16:16,932 r = 50, area=314.1592653589793
+2023-05-16 22:16:16,933 
+2023-05-16 22:16:16,933 TRY: Call get_circle_areas_given_list() function with a list that may include BAD values
+2023-05-16 22:16:16,933 CALLING get_circle_area([-5, 0, inf, '30'])
+2023-05-16 22:16:16,933 CALLING get_circle_area(-5)
+2023-05-16 22:16:16,933 The circle area is -31.41592653589793
+2023-05-16 22:16:16,933 r = -5, area=-31.41592653589793
+2023-05-16 22:16:16,933 CALLING get_circle_area(0)
+2023-05-16 22:16:16,933 The circle area is 0.0
+2023-05-16 22:16:16,933 r = 0, area=0.0
+2023-05-16 22:16:16,933 CALLING get_circle_area(inf)
+2023-05-16 22:16:16,933 The circle area is inf
+2023-05-16 22:16:16,933 r = inf, area=inf
+2023-05-16 22:16:16,933 CALLING get_circle_area(30)
+2023-05-16 22:16:16,933 Error: can't multiply sequence by non-int of type 'float'
+2023-05-16 22:16:16,933 r = 30, area=None
