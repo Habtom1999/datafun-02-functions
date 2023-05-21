@@ -1,0 +1,26 @@
+2023-05-21 13:18:46,611 =============================================================
+2023-05-21 13:18:46,611 =============================================================
+2023-05-21 13:18:46,611 Today is 2023-05-21 at 01:18 PM
+2023-05-21 13:18:46,640 This file is running on: nt Windows 10
+2023-05-21 13:18:46,640 The Python version is: 3.11.3
+2023-05-21 13:18:46,640 The active conda environment is:  None
+2023-05-21 13:18:46,640 The active pip environment is:    None
+2023-05-21 13:18:46,640 The active environment path is:   C:\Users\habto\AppData\Local\Programs\Python\Python311
+2023-05-21 13:18:46,640 The current working directory is: C:\Users\habto\Desktop\NWMS classes\Data Fundamentals\Module=2\datafun-02-functions
+2023-05-21 13:18:46,640 This source file is in:           c:\Users\habto\Desktop\NWMS classes\Data Fundamentals\Module=2\datafun-02-functions
+2023-05-21 13:18:46,640 =============================================================
+2023-05-21 13:18:46,641 =============================================================
+2023-05-21 13:18:46,641 Created: NumericPopulationSeries with name=Kansas City Population, St.Louis Population, Springfield Population, units=Count, location=MO, and 3 data points: [502597, 302787, 168603]
+2023-05-21 13:18:46,641 Created: NumericPopulationSeries with name=Wochita Population, Overland Park Population, Kansas city Population, units=Count, location=KS, and 3 data points: [394574, 195249, 155745]
+2023-05-21 13:18:46,641 NumericPopulationSeries with name=Kansas City Population, St.Louis Population, Springfield Population, units=Count, location=MO, and 3 data points: [502597, 302787, 168603]
+2023-05-21 13:18:46,641 Count: 3
+2023-05-21 13:18:46,641 Sum: 973987
+2023-05-21 13:18:46,641 Mean: 324662.3333333333
+2023-05-21 13:18:46,641 Median: 302787
+2023-05-21 13:18:46,641 ------------------
+2023-05-21 13:18:46,641 NumericPopulationSeries with name=Wochita Population, Overland Park Population, Kansas city Population, units=Count, location=KS, and 3 data points: [394574, 195249, 155745]
+2023-05-21 13:18:46,641 Count: 3
+2023-05-21 13:18:46,641 Sum: 745568
+2023-05-21 13:18:46,641 Mean: 248522.66666666666
+2023-05-21 13:18:46,641 Median: 195249
+2023-05-21 13:18:46,641 ------------------
